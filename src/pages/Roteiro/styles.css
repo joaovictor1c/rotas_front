@@ -1,0 +1,21 @@
+.h1Nome{
+    font-size: calc(3em + 2vw);
+}
+
+.h4{
+    font-size: calc(0.8em + 0.8vw);
+}
+
+.h1NumeroDeNoites{
+    font-size: calc(0.1em + 2vw);
+}
+.h6Textos{
+    font-size: calc(1em + 1vw);
+}
+.h2NomeLocal{
+    font-size: calc(0.2em + 4vw);
+}
+.h5TextoInformacoes{
+
+    font-size: calc(0.5em + 1vw);
+}

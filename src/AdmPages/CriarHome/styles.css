@@ -1,0 +1,20 @@
+.h1Titulo{
+    font-size: calc(1.5em + 2vw);
+    color: white;
+}
+
+.pTitulo{
+    font-size: calc(0.5em + 1vw);
+    color: white;
+}
+
+.fundoPesquisa{
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+}
+
+.h1TextosAuxiliares{
+
+   color: rgb(117, 117, 117);
+   font-size: calc(2em + 1vw);
+}
